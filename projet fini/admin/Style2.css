@@ -1,0 +1,28 @@
+body{
+	background-color : lightblue;
+	background-image : url("../site/image/logo1_sansfond.png");
+
+}
+
+
+img{
+	opacity : 0.33;
+	float;
+}
+
+h1{
+	text-align : center;
+}
+
+table{
+	border : 5px solid;
+}
+
+tr{
+	border : 2px solid;
+}
+
+td{
+	border : 2px solid;
+}
+
